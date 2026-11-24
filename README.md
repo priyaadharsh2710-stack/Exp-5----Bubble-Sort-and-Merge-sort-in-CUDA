@@ -297,4 +297,4 @@ int main() {
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to implement and compare Bubble Sort and Merge Sort algorithms on both CPU and GPU.
