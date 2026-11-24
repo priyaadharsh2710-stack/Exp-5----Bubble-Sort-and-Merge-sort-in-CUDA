@@ -30,7 +30,8 @@ Discuss the differences in execution time and explain the limitations of Bubble 
 TYPE YOUR CODE HERE
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+<img width="1407" height="360" alt="image" src="https://github.com/user-attachments/assets/4d75ea80-61a2-4526-89b8-2987e4461030" />
+
 
 ## RESULT:
 Thus, the program has been executed using CUDA to ________________.
